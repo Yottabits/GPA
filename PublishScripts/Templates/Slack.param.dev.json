@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "MyGPA"
+  },
+  "hostingPlanName": {
+    "value": "MyGPAPlan"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "dc7cffcc-c4da-4380-aa36-c9ef8f4dfe0a"
+  },
+  "resourceGroup": {
+    "value": "MyGPAResources"
+  }
+}
